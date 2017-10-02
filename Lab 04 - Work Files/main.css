@@ -1,0 +1,28 @@
+
+
+
+
+
+
+a:hover
+{   background-color: red;}
+
+#list
+{   color: green;
+}
+
+li
+{   /* Display inline */
+    color: red;
+}
+
+.list-class
+{  background-color: purple;}
+
+.list-class
+{  background-color: orange;}
+
+#mefirst
+{   background-color: blue}
+
+
